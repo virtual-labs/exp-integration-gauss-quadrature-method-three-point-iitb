@@ -1,0 +1,1 @@
+## Integration - Gauss Quadrature Methods 3 Points
