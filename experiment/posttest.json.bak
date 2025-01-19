@@ -1,0 +1,26 @@
+
+[
+    {
+        "question": "Given that x varies from 2 to 5 (i.e x1 to x2) and $$ Y(x) = x^3 - 5x + 3 $$ find the integration of Y using Guass quadrature method for 3 points.",
+        "qid": 1,
+        "option_a": "148.430",
+        "option_b": "144.443",
+        "option_c": "145.750",
+        "option_d": "144.750",
+        "correct_option": "d"
+    },
+    {
+       "question": "Given that x varies from 1 to 4 (i.e x1 to x2) and $$ Y(x) = 2x^2 + 1 $$ find the integration of Y using Guass quadrature method for 3 points.",
+       "qid": 2,
+       "option_a": "44.995",
+       "option_b": "45.704",
+       "option_c": "45.000",
+       "option_d": "44.439",
+       "correct_option": "c"
+   }
+   
+ ]
+ 
+ 
+ 
+ 

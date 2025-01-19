@@ -1,0 +1,28 @@
+[
+   
+    
+    {
+        "question": "Which of the following functions can be approximated using Gauss Quadrature methods?",
+        "qid": 3,
+        "option_a": "Any discontinuous function",
+        "option_b": "Any continuous function",
+        "option_c": "Only trigonometric functions",
+        "option_d": "Only polynomials",
+        "correct_option": "b"
+    },
+
+    {
+        "question": "The integration by Gauss quadrature methods using three points is given by",
+        "qid": 2,
+        "option_a": " <span style='display: inline-block;'> $$ I \\ = \\ a\\left(\\frac{5}{9}f\\left(a*\\sqrt{\\frac{3}{5}} + b \\right) \\ + \\ \\frac{8}{9}f(a*0 \\ + \\ b) \\ + \\ \\frac{5}{9}f\\left(-a*\\sqrt{\\frac{3}{5}} + b \\right) \\right) \\ $$ </span>",
+  
+        "option_b": " <span style='display: inline-block;'> $$ I \\ = \\ a\\left(\\frac{9}{5}f\\left(a*\\sqrt{\\frac{5}{3}} + b \\right) \\ + \\ \\frac{9}{8}f(a*0 \\ + \\ b) \\ + \\ \\frac{9}{5}f\\left(-a*\\sqrt{\\frac{5}{3}} + b \\right) \\right) \\  $$ </span> ",
+  
+        "option_c": " <span style='display: inline-block;'> $$ I \\ = \\ \\frac{5}{9}f\\left(a*\\sqrt{\\frac{3}{5}} + b \\right) \\ + \\ \\frac{8}{9}f(a*0 \\ + \\ b) \\ + \\ \\frac{5}{9}f\\left(-a*\\sqrt{\\frac{3}{5}} + b \\right) \\  $$ </span> ",
+  
+        "option_d": " <span style='display: inline-block;'> $$ I \\ =  \\ \\frac{8}{9}f(a*0 \\ + \\ b)  $$ </span> ",
+        "correct_option": "a"
+    }
+    
+   
+]
