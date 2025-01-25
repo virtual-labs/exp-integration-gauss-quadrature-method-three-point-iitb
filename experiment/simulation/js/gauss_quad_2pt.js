@@ -1,5 +1,5 @@
 function f1(x) {
-    return Math.pow(x, 3) - x + 1;
+    return Math.pow(x, 3) - 5 * x + 3;
 }
 function f2(x) {
     return 2 * Math.pow(x, 2) + 1;
